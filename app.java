@@ -6,11 +6,3 @@ public class AddNumbers {
         System.out.println("The sum is: " + sum); // Prints the sum
     }
 }
-
-v2 code begins here
-
-    public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
