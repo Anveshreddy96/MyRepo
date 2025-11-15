@@ -15,4 +15,16 @@ here im writing v2 code
     }
 }
 
+here im writing v3 code 
+    v3 code begins here
+    public class MyMethods {
+    // A method that prints a message
+    public static void greet(String name) {
+        System.out.println("Hello, " + name + "!");
+    }
 
+    public static void main(String[] args) {
+        greet("Alice"); // Calling the greet method
+        greet("Bob");
+    }
+}
